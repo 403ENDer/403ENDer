@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HK</h1>
+<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
 <h3 align="center">A nerd who loves problem solving and mind games!</h3>
 
 - 🌱 I’m currently learning **Web development, Data Structures**
