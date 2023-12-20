@@ -31,5 +31,5 @@
 <a href="https://medium.com/@harish11ndsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harish11ndsh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/harish_kumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harish_kumar_n" height="30" width="40" /></a>
 <a href="https://leetcode.com/403ender/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/403ender/" height="30" width="40" /></a>
-<a href="https://discord.gg/403ENDer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="403ENDer" height="30" width="40" /></a>
+
 </p>
