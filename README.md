@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=403ender&label=Profile%20views&color=0e75b6&style=flat" alt="403ender" /> </p>
+
+
 ## About Me
 🎓 I'm a dedicated Decision Science student passionate about the intersection of data and decision-making. My academic journey has been filled with hands-on experience in machine learning, analytics, and data visualization, shaping me into a versatile data enthusiast.
 
