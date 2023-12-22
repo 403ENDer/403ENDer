@@ -15,6 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=403ender&show_icons=true&locale=en&layout=compact" alt="403ender" /></p><br>
 ---
+
 ## Project Highlights
 🚀 Explore my repositories to find projects that demonstrate my problem-solving skills and the application of data science to real-world scenarios. From predictive models to interactive dashboards, each project reflects my commitment to driving value through data.
 - 👨‍💻 All of my projects are available at [https://harish1112-portfolio.netlify.app/](https://harish1112-portfolio.netlify.app/)
