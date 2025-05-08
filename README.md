@@ -17,7 +17,7 @@
 
 ## Project Highlights
 🚀 Explore my repositories to find projects that demonstrate my problem-solving skills and the application of data science to real-world scenarios. From predictive models to interactive dashboards, each project reflects my commitment to driving value through data.
-- 👨‍💻 All of my projects are available at [https://harish1112-portfolio.netlify.app/](https://harish1112-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://harishkumarn1112.netlify.app/](https://harishkumarn1112.netlify.app/)
 
 ## Collaboration and Communication
 🤝 I excel both independently and collaboratively, ensuring timely project completion. My effective communication and presentation skills enable me to convey complex data insights clearly to diverse teams.
@@ -31,7 +31,7 @@
 - 📫 How to reach me **harishkumarn1112@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harish-kumar-n-1106hk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harish-kumar-n-1106hk/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harish-kumar-n-hk1112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harish-kumar-n-1106hk/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/harish1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/harish1106" height="30" width="40" /></a>
 <a href="https://www.instagram.com/captain_hk_1106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/captain_hk_1106/" height="30" width="40" /></a>
 <a href="https://medium.com/@harish11ndsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harish11ndsh" height="30" width="40" /></a>
