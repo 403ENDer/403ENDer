@@ -68,21 +68,10 @@ Backend-focused developer with **10+ months of internship experience** building 
 
 ---
 
-## 🎓 Education
-
-**M.Sc. Decision and Computing Sciences** · Major in Decision Science  
-Coimbatore Institute of Technology · 2021 – 2026 · **CGPA: 8.91**  
-*Secretary, Department Club — organised 30+ technical and inter-collegiate events*
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=403ender&show_icons=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=403ender&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=403ender&label=Profile+views&color=58a6ff&style=flat" alt="Profile views" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=403ender&label=Profile+views&color=58a6ff&style=flat" alt="Profile views" />
