@@ -52,6 +52,14 @@ Backend-focused developer with **10+ months of internship experience** building 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+**AI & LLMs**
+ 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20LLM-8E75B2?style=flat&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+ 
+
 **Data & ML**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
