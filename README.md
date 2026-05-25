@@ -67,12 +67,9 @@ Backend-focused developer with **10+ months of internship experience** building 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=403ender&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=403ender&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=403ender&hide_border=true" alt="GitHub Streak" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=403ender&label=Profile+views&color=58a6ff&style=flat" alt="Profile views" />
 </p>
